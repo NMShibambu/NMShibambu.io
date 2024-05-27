@@ -54,6 +54,7 @@ Welcome to Nicholas Shibambu's portfolio website repository. This repository con
 - Introduction to IoT - Cisco, May 2024
 - Computer Hardware Basics - Cisco, May 2024
 - Introduction to Data Science - Cisco, May 2024
+- Introduction to Cybersecurity - Cisco, May 2024
 
 ## 🛠️ Skills Page
 
